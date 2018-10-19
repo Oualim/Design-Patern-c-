@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\obj\Debug\Adapteur.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\obj\Debug\Adapteur.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\bin\Debug\Adapteur.exe.config
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\bin\Debug\Adapteur.exe
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\bin\Debug\Adapteur.pdb
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\obj\Debug\Adapteur.exe
+C:\Users\Administrateur\source\repos\Adapteur\Adapteur\obj\Debug\Adapteur.pdb

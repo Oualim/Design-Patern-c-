@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\obj\Debug\AbastractEtInterfaces.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\obj\Debug\AbastractEtInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\bin\Debug\AbastractEtInterfaces.exe.config
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\bin\Debug\AbastractEtInterfaces.exe
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\bin\Debug\AbastractEtInterfaces.pdb
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\obj\Debug\AbastractEtInterfaces.exe
+C:\Users\Administrateur\source\repos\AbastractEtInterfaces\AbastractEtInterfaces\obj\Debug\AbastractEtInterfaces.pdb

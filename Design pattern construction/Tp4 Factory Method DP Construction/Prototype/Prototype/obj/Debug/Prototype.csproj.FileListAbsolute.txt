@@ -1,0 +1,9 @@
+C:\Users\Administrateur\source\repos\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\bin\Debug\Prototype.exe
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\obj\Debug\Prototype.exe
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\Prototype\obj\Debug\Prototype.pdb

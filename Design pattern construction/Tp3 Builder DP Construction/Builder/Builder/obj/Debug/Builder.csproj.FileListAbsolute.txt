@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Administrateur\source\repos\Tp3Builder\Builder\Builder\obj\Debug\Builder.pdb

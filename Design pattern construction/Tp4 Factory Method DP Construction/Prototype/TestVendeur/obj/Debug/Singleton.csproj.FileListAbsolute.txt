@@ -1,0 +1,13 @@
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\bin\Debug\TestVendeur.exe.config
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\bin\Debug\TestVendeur.exe
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\bin\Debug\TestVendeur.pdb
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\obj\Debug\TestVendeur.exe
+C:\Users\Administrateur\source\repos\Prototype\TestVendeur\obj\Debug\TestVendeur.pdb
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\bin\Debug\TestVendeur.exe.config
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\bin\Debug\TestVendeur.exe
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\bin\Debug\TestVendeur.pdb
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\obj\Debug\Singleton.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\obj\Debug\TestVendeur.exe
+C:\Users\Administrateur\source\repos\Tp4 Factory Method\Prototype\TestVendeur\obj\Debug\TestVendeur.pdb

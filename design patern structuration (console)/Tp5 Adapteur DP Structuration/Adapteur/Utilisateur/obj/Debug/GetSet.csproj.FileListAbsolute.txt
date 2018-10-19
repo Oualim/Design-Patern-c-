@@ -1,0 +1,6 @@
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\bin\Debug\Utilisateur.exe.config
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\bin\Debug\Utilisateur.exe
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\bin\Debug\Utilisateur.pdb
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\obj\Debug\GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\obj\Debug\Utilisateur.exe
+C:\Users\Administrateur\source\repos\Adapteur\Utilisateur\obj\Debug\Utilisateur.pdb

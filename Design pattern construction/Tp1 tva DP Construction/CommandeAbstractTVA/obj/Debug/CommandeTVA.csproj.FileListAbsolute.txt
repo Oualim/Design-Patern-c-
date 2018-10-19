@@ -1,0 +1,14 @@
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\bin\Debug\CommandeTVA.exe.config
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\bin\Debug\CommandeTVA.exe
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\bin\Debug\CommandeTVA.pdb
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\obj\Debug\CommandeTVA.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\obj\Debug\CommandeTVA.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\obj\Debug\CommandeTVA.exe
+C:\Users\Administrateur\source\repos\DesignPatterns\CommandeTVA\obj\Debug\CommandeTVA.pdb
+C:\Users\Administrateur\source\repos\CommandeTVA\bin\Debug\CommandeTVA.exe.config
+C:\Users\Administrateur\source\repos\CommandeTVA\bin\Debug\CommandeTVA.exe
+C:\Users\Administrateur\source\repos\CommandeTVA\bin\Debug\CommandeTVA.pdb
+C:\Users\Administrateur\source\repos\CommandeTVA\obj\Debug\CommandeTVA.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\CommandeTVA\obj\Debug\CommandeTVA.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\CommandeTVA\obj\Debug\CommandeTVA.exe
+C:\Users\Administrateur\source\repos\CommandeTVA\obj\Debug\CommandeTVA.pdb
